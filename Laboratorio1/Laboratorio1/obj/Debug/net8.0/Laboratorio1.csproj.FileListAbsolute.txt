@@ -1,0 +1,14 @@
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio1\Laboratorio1\bin\Debug\net8.0\Laboratorio1.exe
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio1\Laboratorio1\bin\Debug\net8.0\Laboratorio1.deps.json
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio1\Laboratorio1\bin\Debug\net8.0\Laboratorio1.runtimeconfig.json
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio1\Laboratorio1\bin\Debug\net8.0\Laboratorio1.dll
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio1\Laboratorio1\bin\Debug\net8.0\Laboratorio1.pdb
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio1\Laboratorio1\obj\Debug\net8.0\Laboratorio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio1\Laboratorio1\obj\Debug\net8.0\Laboratorio1.AssemblyInfoInputs.cache
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio1\Laboratorio1\obj\Debug\net8.0\Laboratorio1.AssemblyInfo.cs
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio1\Laboratorio1\obj\Debug\net8.0\Laboratorio1.csproj.CoreCompileInputs.cache
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio1\Laboratorio1\obj\Debug\net8.0\Laboratorio1.dll
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio1\Laboratorio1\obj\Debug\net8.0\refint\Laboratorio1.dll
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio1\Laboratorio1\obj\Debug\net8.0\Laboratorio1.pdb
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio1\Laboratorio1\obj\Debug\net8.0\Laboratorio1.genruntimeconfig.cache
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio1\Laboratorio1\obj\Debug\net8.0\ref\Laboratorio1.dll
