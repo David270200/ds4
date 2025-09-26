@@ -1,30 +1,36 @@
-﻿private int[] sueldos; //declaramos un vector
+﻿using System;
 
-public void cargar()
+class PruebaVector1
 {
-    sueldos = new int[6] //inicializamos el vector en 5 
-        for (int f = 1; f < 5; f++)
+    private int[] sueldos; // declaramos un vector
+
+    public void cargar()
     {
-        Console.WriteLine("Ingrese sueldo del operario, " + f + ": ");
-        string linea;
-        linea = Console.ReadLine();
-        sueldos[f] = int.Parse(linea); //asignamos los 5 sueldos al vector
+        sueldos = new int[5]; // inicializamos el vector en 5 posiciones
+        for (int f = 0; f < sueldos.Length; f++)
+        {
+            Console.Write("Ingrese sueldo del operario " + (f + 1) + ": ");
+            string linea = Console.ReadLine();
+            sueldos[f] = int.Parse(linea); // asignamos los sueldos al vector
+        }
     }
-}
-//muestra los sueldos de los operarios en el vector sueldos[f]
-public void imprimir()
-{
-    Console.WriteLine("Los 5 sueldos de los operarios son: \n");
-    for (int f = 1; f < 5; f++)
+
+    // muestra los sueldos de los operarios en el vector sueldos
+    public void imprimir()
     {
-        Console.WriteLine("Sueldo del operario " + f + ": " + sueldos[f]);
+        Console.WriteLine("\nLos 5 sueldos de los operarios son:\n");
+        for (int f = 0; f < sueldos.Length; f++)
+        {
+            Console.WriteLine("Sueldo del operario " + (f + 1) + ": " + sueldos[f]);
+        }
+        Console.ReadKey();
     }
-    Console.ReadKey();
-}
-//main principal
-static void Main(string[] args)
-{
-    PruebaVector1 pv = new PruebaVector1();
-    lab.cargar(); //llamamos al metodo cargar
-    lab.imprimir(); //llamamos al metodo imprimir
+
+    // main principal
+    static void Main(string[] args)
+    {
+        PruebaVector1 pv = new PruebaVector1();
+        pv.cargar();   // llamamos al método cargar
+        pv.imprimir(); // llamamos al método imprimir
+    }
 }

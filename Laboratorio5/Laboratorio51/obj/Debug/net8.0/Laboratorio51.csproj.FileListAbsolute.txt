@@ -3,3 +3,13 @@ C:\Users\songo\Documents\Proyecto\ds4\Laboratorio5\Laboratorio51\obj\Debug\net8.
 C:\Users\songo\Documents\Proyecto\ds4\Laboratorio5\Laboratorio51\obj\Debug\net8.0\Laboratorio51.AssemblyInfo.cs
 C:\Users\songo\Documents\Proyecto\ds4\Laboratorio5\Laboratorio51\obj\Debug\net8.0\Laboratorio51.csproj.CoreCompileInputs.cache
 C:\Users\songo\Documents\Proyecto\ds4\Laboratorio5\Laboratorio51\obj\Debug\net8.0\Laboratorio51.sourcelink.json
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio5\Laboratorio51\bin\Debug\net8.0\Laboratorio51.exe
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio5\Laboratorio51\bin\Debug\net8.0\Laboratorio51.deps.json
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio5\Laboratorio51\bin\Debug\net8.0\Laboratorio51.runtimeconfig.json
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio5\Laboratorio51\bin\Debug\net8.0\Laboratorio51.dll
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio5\Laboratorio51\bin\Debug\net8.0\Laboratorio51.pdb
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio5\Laboratorio51\obj\Debug\net8.0\Laboratorio51.dll
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio5\Laboratorio51\obj\Debug\net8.0\refint\Laboratorio51.dll
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio5\Laboratorio51\obj\Debug\net8.0\Laboratorio51.pdb
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio5\Laboratorio51\obj\Debug\net8.0\Laboratorio51.genruntimeconfig.cache
+C:\Users\songo\Documents\Proyecto\ds4\Laboratorio5\Laboratorio51\obj\Debug\net8.0\ref\Laboratorio51.dll
