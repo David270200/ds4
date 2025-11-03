@@ -1,0 +1,7 @@
+C:\Users\songo\Documents\Proyecto\ds4\CalculadoraVirtual\CalculadoraVirtual\obj\Debug\net8.0-windows\CalculadoraVirtual.Form1.resources
+C:\Users\songo\Documents\Proyecto\ds4\CalculadoraVirtual\CalculadoraVirtual\obj\Debug\net8.0-windows\CalculadoraVirtual.csproj.GenerateResource.cache
+C:\Users\songo\Documents\Proyecto\ds4\CalculadoraVirtual\CalculadoraVirtual\obj\Debug\net8.0-windows\CalculadoraVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\songo\Documents\Proyecto\ds4\CalculadoraVirtual\CalculadoraVirtual\obj\Debug\net8.0-windows\CalculadoraVirtual.AssemblyInfoInputs.cache
+C:\Users\songo\Documents\Proyecto\ds4\CalculadoraVirtual\CalculadoraVirtual\obj\Debug\net8.0-windows\CalculadoraVirtual.AssemblyInfo.cs
+C:\Users\songo\Documents\Proyecto\ds4\CalculadoraVirtual\CalculadoraVirtual\obj\Debug\net8.0-windows\CalculadoraVirtual.csproj.CoreCompileInputs.cache
+C:\Users\songo\Documents\Proyecto\ds4\CalculadoraVirtual\CalculadoraVirtual\obj\Debug\net8.0-windows\CalculadoraVirtual.sourcelink.json

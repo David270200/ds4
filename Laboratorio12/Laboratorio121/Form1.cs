@@ -14,56 +14,56 @@ namespace Laboratorio121
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            double velocidad;
+            double velocidadIngresada;
 
-            if (double.TryParse(textBox1.Text, out velocidad))
+            if (double.TryParse(textBox1.Text, out velocidadIngresada))
             {
             }
             else
             {
-                MessageBox.Show("ingrese la velocidad ");
+                MessageBox.Show("Por favor, introduzca un valor válido para la velocidad.");
             }
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-            double tiempo;
+            double tiempoTranscurrido;
 
-            if (double.TryParse(textBox2.Text, out tiempo))
+            if (double.TryParse(textBox2.Text, out tiempoTranscurrido))
             {
-                // Aquí luego podrás usar la variable 'tiempo' para calcular la distancia
+
             }
             else
             {
-                MessageBox.Show("Ingrese un valor numérico válido para el tiempo.");
+                MessageBox.Show("Por favor, introduzca un valor válido para el tiempo.");
             }
 
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double velocidad, tiempo;
+            double datoVelocidad, datoTiempo;
 
-            if (double.TryParse(textBox1.Text, out velocidad) && double.TryParse(textBox2.Text, out tiempo))
+            if (double.TryParse(textBox1.Text, out datoVelocidad) && double.TryParse(textBox2.Text, out datoTiempo))
             {
-                double distancia = velocidad * tiempo;
-                textBox3.Text = distancia.ToString(); // muestra la distancia en textBox3
+                double resultadoDistancia = datoVelocidad * datoTiempo;
+                textBox3.Text = resultadoDistancia.ToString();
             }
             else
             {
-                MessageBox.Show("Por favor ingrese valores numéricos válidos en ambos campos.");
+                MessageBox.Show("Ingrese valores numéricos válidos en ambos campos.");
             }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            textBox1.Clear(); // limpia la velocidad
-            textBox2.Clear(); // limpia el tiempo
+            textBox1.Clear();
+            textBox2.Clear();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Application.Exit(); //para salir de la copilacion
+            Application.Exit();
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
@@ -72,3 +72,4 @@ namespace Laboratorio121
         }
     }
 }
+

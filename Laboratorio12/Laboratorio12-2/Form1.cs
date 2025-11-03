@@ -24,60 +24,60 @@ namespace Laboratorio12_2
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            double nota1;
+            double calificacionA;
 
-            if (double.TryParse(textBox1.Text, out nota1))
+            if (double.TryParse(textBox1.Text, out calificacionA))
             {
 
             }
             else
             {
-                MessageBox.Show("Ingrese un valor valido para la nota 1.");
+                MessageBox.Show("Por favor ingrese un número válido para la primera nota.");
             }
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-            double nota2;
+            double calificacionB;
 
-            if (double.TryParse(textBox2.Text, out nota2))
+            if (double.TryParse(textBox2.Text, out calificacionB))
             {
 
             }
             else
             {
-                MessageBox.Show("Ingrese un valor valido para la nota 2.");
+                MessageBox.Show("Por favor ingrese un número válido para la segunda nota.");
             }
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
-            double nota3;
+            double calificacionC;
 
-            if (double.TryParse(textBox3.Text, out nota3))
+            if (double.TryParse(textBox3.Text, out calificacionC))
             {
 
             }
             else
             {
-                MessageBox.Show("Ingrese un valor valido para la nota 3");
+                MessageBox.Show("Por favor ingrese un número válido para la tercera nota.");
             }
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double nota1, nota2, nota3;
+            double valor1, valor2, valor3;
 
-            if (double.TryParse(textBox1.Text, out nota1) &&
-                double.TryParse(textBox2.Text, out nota2) &&
-                double.TryParse(textBox3.Text, out nota3))
+            if (double.TryParse(textBox1.Text, out valor1) &&
+                double.TryParse(textBox2.Text, out valor2) &&
+                double.TryParse(textBox3.Text, out valor3))
             {
-                double promedio = (nota1 + nota2 + nota3) / 3;
-                textBox4.Text = promedio.ToString("F2"); //muestra el promedio
+                double promedioFinal = (valor1 + valor2 + valor3) / 3;
+                textBox4.Text = promedioFinal.ToString("F2"); 
             }
             else
             {
-                MessageBox.Show("Ingrese valores numéricos válidos en todas las notas.");
+                MessageBox.Show("Ingrese solo valores numéricos válidos en los campos de notas.");
             }
         }
 
