@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{209C7DDF-9E8A-4CAC-A0FA-95E25D96A226}|Laboratorio192\\Laboratorio192.csproj|c:\\users\\songo\\documents\\proyecto\\ds4\\laboratorio19\\laboratorio192\\views\\consumo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{209C7DDF-9E8A-4CAC-A0FA-95E25D96A226}|Laboratorio192\\Laboratorio192.csproj|solutionrelative:laboratorio192\\views\\consumo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209C7DDF-9E8A-4CAC-A0FA-95E25D96A226}|Laboratorio192\\Laboratorio192.csproj|C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio19\\laboratorio192\\controllers\\consumocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209C7DDF-9E8A-4CAC-A0FA-95E25D96A226}|Laboratorio192\\Laboratorio192.csproj|solutionrelative:laboratorio192\\controllers\\consumocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918E1D52-01B2-40AD-837A-906E5678A861}|Laboratorio191\\Laboratorio191.csproj|C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio19\\laboratorio191\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918E1D52-01B2-40AD-837A-906E5678A861}|Laboratorio191\\Laboratorio191.csproj|solutionrelative:laboratorio191\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918E1D52-01B2-40AD-837A-906E5678A861}|Laboratorio191\\Laboratorio191.csproj|C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio19\\laboratorio191\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918E1D52-01B2-40AD-837A-906E5678A861}|Laboratorio191\\Laboratorio191.csproj|solutionrelative:laboratorio191\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918E1D52-01B2-40AD-837A-906E5678A861}|Laboratorio191\\Laboratorio191.csproj|C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio19\\laboratorio191\\models\\ws\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918E1D52-01B2-40AD-837A-906E5678A861}|Laboratorio191\\Laboratorio191.csproj|solutionrelative:laboratorio191\\models\\ws\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio19\\Laboratorio192\\Views\\Consumo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio192\\Views\\Consumo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio19\\Laboratorio192\\Views\\Consumo\\Index.cshtml",
+              "RelativeToolTip": "Laboratorio192\\Views\\Consumo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T23:47:43.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsumoController.cs",
+              "DocumentMoniker": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio19\\Laboratorio192\\Controllers\\ConsumoController.cs",
+              "RelativeDocumentMoniker": "Laboratorio192\\Controllers\\ConsumoController.cs",
+              "ToolTip": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio19\\Laboratorio192\\Controllers\\ConsumoController.cs",
+              "RelativeToolTip": "Laboratorio192\\Controllers\\ConsumoController.cs",
+              "ViewState": "AgIAAAIAAAAgMzMzMzMRwAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T23:45:50.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio19\\Laboratorio191\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Laboratorio191\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio19\\Laboratorio191\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Laboratorio191\\Controllers\\AccessController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:53:00.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio19\\Laboratorio191\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "Laboratorio191\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio19\\Laboratorio191\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "Laboratorio191\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:32:13.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reply.cs",
+              "DocumentMoniker": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio19\\Laboratorio191\\Models\\WS\\Reply.cs",
+              "RelativeDocumentMoniker": "Laboratorio191\\Models\\WS\\Reply.cs",
+              "ToolTip": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio19\\Laboratorio191\\Models\\WS\\Reply.cs",
+              "RelativeToolTip": "Laboratorio191\\Models\\WS\\Reply.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:09:47.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
