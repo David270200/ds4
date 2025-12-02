@@ -36,7 +36,7 @@
             <asp:Button ID="b4" Text="4" runat="server" Height="37px" Style="margin-left: 0px;"
                 width="57px" OnClick="b4_Click" />
             <asp:Button ID="b5" Text="5" runat="server" Height="37px" Style="margin-left: 0px"
-                width="57px" OnClick="b5_click" />
+                width="57px" OnClick="b5_Click" />
             <asp:Button ID="b6" Text="6" runat="server" Height="37px" Style="margin-left: 0px"
                 width="57px" OnClick="b6_Click" />
             <asp:Button ID="sub" Text="-" runat="server" Height="37px" Style="margin-left: 0px"

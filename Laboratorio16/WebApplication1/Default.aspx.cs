@@ -12,10 +12,7 @@ namespace WebApplication1
     {
         static float a, c, d;
         static char b;
-        protected void Page_Load(object sender, EventArgs e)
-        {
-
-        }
+      
         protected void b1_Click(object sender, EventArgs e)
         {
             if ((t.Text == "+") || (t.Text == "-") || (t.Text == "*") || (t.Text == "/"))

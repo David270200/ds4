@@ -14,7 +14,7 @@
         Introduzca un texto<p>
             <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
             <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Enviar Saludo!" />
-        </p>
+        </p> 
     </form>
 </body>
 </html>

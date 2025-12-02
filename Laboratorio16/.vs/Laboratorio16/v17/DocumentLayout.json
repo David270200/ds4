@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio16\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15474BE8-5FD4-492D-A480-3F45737F1227}|WebApplication1\\WebApplication1.csproj|c:\\users\\songo\\documents\\proyecto\\ds4\\laboratorio16\\webapplication1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{15474BE8-5FD4-492D-A480-3F45737F1227}|WebApplication1\\WebApplication1.csproj|C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio16\\webapplication1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{15474BE8-5FD4-492D-A480-3F45737F1227}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -11,15 +11,19 @@
       "RelativeMoniker": "D:0:0:{15474BE8-5FD4-492D-A480-3F45737F1227}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15474BE8-5FD4-492D-A480-3F45737F1227}|WebApplication1\\WebApplication1.csproj|c:\\users\\songo\\documents\\proyecto\\ds4\\laboratorio16\\webapplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15474BE8-5FD4-492D-A480-3F45737F1227}|WebApplication1\\WebApplication1.csproj|C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio16\\webapplication1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15474BE8-5FD4-492D-A480-3F45737F1227}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15474BE8-5FD4-492D-A480-3F45737F1227}|WebApplication1\\WebApplication1.csproj|C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio16\\webapplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15474BE8-5FD4-492D-A480-3F45737F1227}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5919D75-FB5F-4731-8C7C-05EA15C1376C}|Laboratorio161\\Laboratorio161.csproj|c:\\users\\songo\\documents\\proyecto\\ds4\\laboratorio16\\laboratorio161\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5919D75-FB5F-4731-8C7C-05EA15C1376C}|Laboratorio161\\Laboratorio161.csproj|C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio16\\laboratorio161\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5919D75-FB5F-4731-8C7C-05EA15C1376C}|Laboratorio161\\Laboratorio161.csproj|solutionrelative:laboratorio161\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5919D75-FB5F-4731-8C7C-05EA15C1376C}|Laboratorio161\\Laboratorio161.csproj|c:\\users\\songo\\documents\\proyecto\\ds4\\laboratorio16\\laboratorio161\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{F5919D75-FB5F-4731-8C7C-05EA15C1376C}|Laboratorio161\\Laboratorio161.csproj|C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio16\\laboratorio161\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{F5919D75-FB5F-4731-8C7C-05EA15C1376C}|Laboratorio161\\Laboratorio161.csproj|solutionrelative:laboratorio161\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -30,11 +34,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio16\\WebApplication1\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio16\\WebApplication1\\WebForm1.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:07:42.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio16\\WebApplication1\\Global.asax.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Global.asax.cs",
@@ -42,8 +58,7 @@
               "RelativeToolTip": "WebApplication1\\Global.asax.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T02:19:41.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T02:19:41.028Z"
             },
             {
               "$type": "Document",
@@ -53,7 +68,7 @@
               "RelativeDocumentMoniker": "WebApplication1\\Default.aspx.cs",
               "ToolTip": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio16\\WebApplication1\\Default.aspx.cs",
               "RelativeToolTip": "WebApplication1\\Default.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAIMAAAAAAAAAAADwvw4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T23:30:10.999Z",
               "EditorCaption": ""
@@ -73,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio16\\Laboratorio161\\Default.aspx.cs",
               "RelativeDocumentMoniker": "Laboratorio161\\Default.aspx.cs",
@@ -81,12 +96,11 @@
               "RelativeToolTip": "Laboratorio161\\Default.aspx.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAIwAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:58:22.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:58:22.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\songo\\Documents\\Proyecto\\ds4\\Laboratorio16\\Laboratorio161\\Default.aspx",
               "RelativeDocumentMoniker": "Laboratorio161\\Default.aspx",
@@ -94,8 +108,7 @@
               "RelativeToolTip": "Laboratorio161\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-11-24T21:34:26.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:34:26.737Z"
             }
           ]
         }
